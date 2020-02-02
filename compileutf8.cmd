@@ -1,2 +1,2 @@
 @echo off
-umind Minddoc.src
+umind minddoc.src
