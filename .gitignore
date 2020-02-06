@@ -3,3 +3,5 @@
 *.sym
 *.exe
 sminddoc.src
+uni*
+doc
